@@ -98,3 +98,9 @@ exercises.c:121:53: note: previous definition of 'c' was here
                                                      ^
 Compilation failed
 2ccd4e0
+jue., 16 de mar. de 2023 22:28:11: 
+ exercises.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  7|1
+total_score: 60/70
+e27204c
