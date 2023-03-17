@@ -20,3 +20,14 @@ jue., 16 de mar. de 2023 22:13:38:
  tests:  1|6
 total_score: 10/70
 16ea592
+jue., 16 de mar. de 2023 22:14:39: 
+ exercises.c | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+In file included from test.c:5:0:
+exercises.c: In function 'arrayMaxMin':
+exercises.c:28:4: error: implicit declaration of function 'print' [-Werror=implicit-function-declaration]
+    print(a[0]);
+    ^~~~~
+cc1.exe: all warnings being treated as errors
+Compilation failed
+aadbd3c
