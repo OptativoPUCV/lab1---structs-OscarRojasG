@@ -27,7 +27,7 @@ almacena en las variables apuntadas por max y min.
 void arrayMaxMin(int *a, int n, int *max, int *min) {
    *max = a[0];
    *min = a[0];
-   
+
    for(int i = 0; i < n; i++) {
       if(a[i] > *max) {
          *max = a[i];
@@ -57,6 +57,9 @@ Persona* crearPersona(char nombre[], char rut[], int edad) {
    Persona * p = (Persona *) malloc(sizeof(Persona));
    //asignar valores de entrada a los campos de p
 
+   strcpy(p->nombre, nombre);
+   strcpy(p->rut, rut);
+   p->edad = edad;
 
    return p;
 }
