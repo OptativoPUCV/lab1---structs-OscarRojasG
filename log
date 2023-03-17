@@ -31,3 +31,9 @@ exercises.c:28:4: error: implicit declaration of function 'print' [-Werror=impli
 cc1.exe: all warnings being treated as errors
 Compilation failed
 aadbd3c
+jue., 16 de mar. de 2023 22:14:53: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  1|6
+total_score: 10/70
+29bac72
