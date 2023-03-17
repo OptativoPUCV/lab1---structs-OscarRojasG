@@ -85,3 +85,16 @@ jue., 16 de mar. de 2023 22:24:05:
  tests:  7|1
 total_score: 60/70
 9027af9
+jue., 16 de mar. de 2023 22:27:56: 
+ exercises.c | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+In file included from test.c:5:0:
+exercises.c: In function 'sumaV2':
+exercises.c:124:12: error: 'c' redeclared as different kind of symbol
+    Vector *c = crearVector(2);
+            ^
+exercises.c:121:53: note: previous definition of 'c' was here
+ void sumaV2(int a1, int a2, int b1, int b2, Vector *c) {
+                                                     ^
+Compilation failed
+2ccd4e0
