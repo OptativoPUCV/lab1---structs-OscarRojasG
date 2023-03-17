@@ -67,3 +67,9 @@ jue., 16 de mar. de 2023 22:21:14:
  tests:  4|3
 total_score: 40/70
 1b691d2
+jue., 16 de mar. de 2023 22:21:50: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  4|3
+total_score: 40/70
+2b4d020
