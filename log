@@ -8,3 +8,9 @@ jue., 16 de mar. de 2023 22:09:14:
  tests:  1|6
 total_score: 10/70
 b784c2b
+jue., 16 de mar. de 2023 22:11:30: 
+ exercises.c | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+ tests:  1|6
+total_score: 10/70
+0cd20eb
