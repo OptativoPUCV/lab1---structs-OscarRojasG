@@ -14,3 +14,9 @@ jue., 16 de mar. de 2023 22:11:30:
  tests:  1|6
 total_score: 10/70
 0cd20eb
+jue., 16 de mar. de 2023 22:13:38: 
+ exercises.c | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+ tests:  1|6
+total_score: 10/70
+16ea592
